@@ -42,4 +42,5 @@ targetCompatibility = 1.8
 dependencies {
     compile 'org.springframework.cloud:spring-cloud-starter-eureka-server'
     compile 'org.springframework.cloud:spring-cloud-starter-feign'
+    compile 'org.springframework.cloud:spring-cloud-starter-hystrix-dashboard'
 }
